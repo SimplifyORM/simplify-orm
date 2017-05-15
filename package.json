@@ -1,0 +1,36 @@
+{
+  "name": "simplify-orm",
+  "version": "1.0.0",
+  "description": "simplify-orm is a simple and easy ORM for NodeJS. It supports all major databases like MySQL, PostgreSQL MSSQL and more.",
+  "main": "main.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplifyORM/simplify-orm.git"
+  },
+  "keywords": [
+    "orm",
+    "mysql",
+    "mssql",
+    "simplify",
+    "easy",
+    "simple",
+    "fast."
+  ],
+  "author": "SimplifyORM <dev@simplify-orm.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimplifyORM/simplify-orm/issues"
+  },
+  "homepage": "https://github.com/SimplifyORM/simplify-orm#readme",
+  "dependencies": {
+    "mysql":"2.13.0",
+    "fs":"0.0.1-security"
+  }
+}
