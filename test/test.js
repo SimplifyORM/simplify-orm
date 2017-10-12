@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use strict';
 
 let context = require('../main');
@@ -29,3 +30,11 @@ context.initialize(myConfig);
 // emp2.telephone = "O96789768";
 
 // let requete = context.updateObject(emp2);
+=======
+'use strict';
+
+let main = require('../main');
+let myConfig = require('./db.json');
+
+main.initialize(myConfig);
+>>>>>>> b7bd25b224f1d4180203c059d2b766ab79f3a363
