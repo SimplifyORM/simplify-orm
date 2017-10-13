@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "host": "127.0.0.1",
     "port": "3306",
@@ -6,13 +5,4 @@
     "user": "root",
     "password": "root",
     "tables": ["t_personnes"]
-=======
-{
-    "host": "127.0.0.1",
-    "port": "8889",
-    "database": "test",
-    "user": "root",
-    "password": "root",
-    "tables": "*"
->>>>>>> b7bd25b224f1d4180203c059d2b766ab79f3a363
 }
